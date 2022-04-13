@@ -6,95 +6,93 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Danh Phan"
-title_separator          : "-"
-name                     : "Danh Phan"
-description              : "Danh Phan's personal website."
+locale: "en"
+title: "Danh Phan"
+title_separator: "-"
+name: "Danh Phan"
+description: "Danh Phan's personal website."
 ### url                      : https://danhphan.github.io
 ### baseurl                  : /blog
-gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+gh_repo:
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute: 200
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider: false # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "danh phan blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "danh phan blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username               : danhpt
+  username: danhpt
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-62280059-1"
-    anonymize_ip         : true # true, false (default)
+    tracking_id: "UA-62280059-1"
+    anonymize_ip: true # true, false (default)
 
 # Google AdSense
-google_ad_client         :
-google_ad_slot           :
-
+google_ad_client:
+google_ad_slot:
 
 # Site Author
 author:
-  name             : "Danh Phan"
-  avatar           : "bio-photo-dan.png"
-  bio              : "I am keen on carrying out research on Machine Learning, NLP and Computer Vision; Then developing intelligent based applications."
-  location         : "Melbourne, Australia"
-  email            : "danh.phan.mq@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "danhphan"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "danhpt"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "danhpt"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  scholar          : 
-  skype            : "danh.phan.mq"
-  
+  name: "Danh Phan"
+  avatar: "bio-photo-dan.png"
+  bio: "A Machine learning researcher, who is currently working on Machine learning for intelligent transport systems."
+  location: "Melbourne, Australia"
+  email: "danh.phan.mq@gmail.com"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "danhphan"
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
+  linkedin: "danhpt"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter: "danhpt"
+  vine:
+  weibo:
+  xing:
+  youtube:
+  scholar:
+  skype: "danh.phan.mq"
 
 # Reading Files
 include:
@@ -129,14 +127,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -149,13 +145,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -172,7 +166,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -201,7 +194,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
