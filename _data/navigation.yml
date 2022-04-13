@@ -2,19 +2,18 @@
 main:
   - title: "News"
     url: /#news
-    
+
   - title: "Publications"
     url: /#publications
 
-  - title: "Bio"
-    url: /#bio
-    
+  # - title: "Bio"
+  #   url: /#bio
+
   - title: "Projects"
     url: /#projects
-  
+
   - title: "Blog"
     url: /blog/
-    
-#   - title: "CV"
-#     url: /images/MyCV.pdf
 
+  # - title: "Resume"
+  #   url: /images/MyCV.pdf
