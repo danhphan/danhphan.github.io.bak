@@ -1,0 +1,32 @@
+# Publications on home page
+year2019:
+  - title: "A novel activity pattern generation incorporating deep learning for transport demand models"
+    authors: "Danh T. Phan, Hai L. Vu"
+    venue: "Transportation Research Part C: Emerging Technologies, Under review 2021."
+    teaser: publication_04.png
+    links:
+      - "[PDF](https://arxiv.org/abs/2104.02278){: .btn .btn--info}"
+      - "[Code](https://github.com/danhphan){: .btn .btn--inverse}"  
+  - title: "Smart Mobility Improvement: Classifying Commuter Satisfaction in Sydney, Australia"
+    authors: "The Danh Phan"
+    venue: "In Proceedings of the 3rd International Conference on Machine Learning and Soft Computing (ICMLSC 2019)"
+    teaser: publication_01.png
+    links:
+      - "[PDF](https://dl.acm.org/citation.cfm?id=3311021){: .btn .btn--info}"
+      - "[Code](https://github.com/danhphan/Classifying-Commuter-Satisfaction){: .btn .btn--inverse}"  
+  - title: "Australia Housing Price Prediction using Machine Learning Algorithms: The Case of Melbourne City, Australia"
+    authors: "The Danh Phan"
+    venue: "In Proceedings of the 2018 International Conference on Machine Learning and Data Engineering (iCMLDE 2018)"
+    teaser: publication_02.png
+    links:
+      - "[PDF](https://ieeexplore.ieee.org/document/8614000){: .btn .btn--info}"
+      - "[Code](https://github.com/danhphan/Housing-Price-Prediction){: .btn .btn--inverse}"  
+  - title: "Discovery of interesting exception rules using attribute-driven inductive methods"
+    authors: "The Danh Phan"
+    venue: "In the 27th Scientific Student Research Conference, Hanoi University of Science and Technology 2009-2010"
+    teaser: publication_03.png
+    links:
+      - "[PDF](https://www.academia.edu/2999124){: .btn .btn--info}"
+
+
+
