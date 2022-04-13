@@ -6,7 +6,7 @@ year2019:
     teaser: publication_04.png
     links:
       - "[PDF](https://arxiv.org/abs/2104.02278){: .btn .btn--info}"
-      - "[Code](https://github.com/danhphan){: .btn .btn--inverse}"
+      - "[Code](https://github.com/danhphan/m2actgen){: .btn .btn--inverse}"
   - title: "Smart Mobility Improvement: Classifying Commuter Satisfaction in Sydney, Australia"
     authors: "The Danh Phan"
     venue: "In Proceedings of the 3rd International Conference on Machine Learning and Soft Computing (ICMLSC 2019)"
