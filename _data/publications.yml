@@ -1,5 +1,5 @@
 # Publications on home page
-year2021:
+year2019:
   - title: "A New Approach to Improve Destination Choice by Ranking Personal Preferences"
     authors: "Danh T. Phan, Hai L. Vu, Eric J. Miller"
     venue: "Transportation Research Part C: Emerging Technologies, Under review 2022."
@@ -16,7 +16,6 @@ year2021:
       - "[PDF](https://arxiv.org/abs/2104.02278){: .btn .btn--info}"
       - "[Code](https://github.com/danhphan/m2actgen){: .btn .btn--inverse}"
 
-year2019:
   - title: "Smart Mobility Improvement: Classifying Commuter Satisfaction in Sydney, Australia"
     authors: "The Danh Phan"
     venue: "In Proceedings of the 3rd International Conference on Machine Learning and Soft Computing (ICMLSC 2019)"
