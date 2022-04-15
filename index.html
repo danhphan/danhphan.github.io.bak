@@ -14,7 +14,7 @@ author_profile: true
 <div id="news">
   {% for item in site.data.news.main %}
   <p><strong>
-      <font class="new">NEW! </font>
+      <!-- <font class="new">NEW! </font> -->
     </strong>{{ item | markdownify | remove: '
   <p>' | remove: '</p>'}}</p>
   {% endfor %}
@@ -23,7 +23,7 @@ author_profile: true
 <div id="allnews" style="display: none;">
   {% for item in site.data.news.all %}
   <p><strong>
-      <font class="new">NEW! </font>
+      <!-- <font class="new">NEW! </font> -->
     </strong>{{ item | markdownify | remove: '
   <p>' | remove: '</p>'}}</p>
   {% endfor %}
