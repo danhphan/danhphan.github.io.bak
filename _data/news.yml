@@ -1,6 +1,6 @@
 # News on home page
 main:
-  - "(10 Jan 2022) Our paper named 'A new approach to improve destination choice using personal preferences' is presented at the Transportation Research Board (TRB) 101st Annual Meeting in Washington, D.C., US."
+  - "(10 Jan 2022) Our paper named **A new approach to improve destination choice using personal preferences** is presented at the Transportation Research Board (TRB) 101st Annual Meeting in Washington, D.C., US."
   - "(26 Feb 2020) Begining my PhD journey at [the Institute of Transport Studies](https://www.monash.edu/engineering/its), Monash University, where I am working on applied machine learning for intelligent transport systems."
   - "(20 Oct 2019) I received three scholarships to pursue PhD research at Monash University, Macquarie University, and University of South Australia"
   - "(18 Apr 2019) I received Macquarie University [Award for Academic Excellence](https://students.mq.edu.au/admin/scholarships-and-financial-support/high-achievers)"
@@ -8,7 +8,7 @@ main:
   - "(26 Nov 2018) One of my papers on **Housing Price Prediction** will be published in Proceedings of the 2018 International Conference on Machine Learning and Data Engineering [iCMLDE 2018](http://www.icmlde.net.au/Home.aspx)"
 
 all:
-  - "(10 Jan 2022) Our paper named 'A new approach to improve destination choice using personal preferences' is presented at the Transportation Research Board (TRB) 101st Annual Meeting in Washington, D.C., US."
+  - "(10 Jan 2022) Our paper named **A new approach to improve destination choice using personal preferences** is presented at the Transportation Research Board (TRB) 101st Annual Meeting in Washington, D.C., US."
   - "(26 Feb 2020) Begining my PhD journey at [the Institute of Transport Studies](https://www.monash.edu/engineering/its), Monash University, where I am working on applied machine learning for intelligent transport systems."
   - "(20 Oct 2019) I received three scholarships to pursue PhD research at Monash University, Macquarie University, and University of South Australia"
   - "(18 Apr 2019) I received Macquarie University [Award for Academic Excellence](https://students.mq.edu.au/admin/scholarships-and-financial-support/high-achievers)"
